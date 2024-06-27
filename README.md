@@ -10,7 +10,9 @@ pilosity_CV_analysis_May2024.R: In this document, we analyze morphometric data (
 
 ## Data: Contains the raw specimen and trait data
 pilosity_lightness_data_june2024.csv: In this document, we present the raw specimen and trait data used in the analysis (pilosity_CV_analysis_May2024.R).
+
 pilosity_lightness_data_trait_format.csv: In this document, we present the same raw data as above, but in a standardized format that lends itself to functional trait data sharing (see this [functional trait data sharing repository](https://github.com/mostwald/Functional-trait-review) for descriptors of column headers). (in progress)
+
 specimen_list_image_figure.csv: In this document, we present specimen data for images displayed in figure X. Specimens are ordered (position column) following the image grid, reading from left to right and top to bottom.
 
 
