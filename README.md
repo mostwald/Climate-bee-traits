@@ -14,7 +14,7 @@
 
 # Repository Directory
 ### Code: Contains code for data analysis in R
-pilosity_CV_analysis_May2024.R: In this document, we analyze morphometric data (ITD, head width, costal vein length, dry mass, volume, surface area) to understand inter- and intra-specific predictors of body size.
+pilosity_CV_analysis_May2024.R
 
 ## Data: Contains the raw specimen and trait data
 pilosity_data_jan8.csv: In this document, we present the raw specimen and trait data used in the analysis (pilosity_CV_analysis_May2024.R).
