@@ -9,7 +9,6 @@
 4.	Deserts were hotspots for bees covered in light-colored hairs, adaptations that may mitigate heat stress and represent convergent evolution with other desert organisms. 
 5.	These results support major ecogeographical rules in functional trait variation and emphasize the role of climate in shaping bee phenotypic diversity.
 
-![image](https://github.com/user-attachments/assets/08ad8f2f-f47d-47af-91a2-965293932a4a)
 
 
 # Repository Directory
